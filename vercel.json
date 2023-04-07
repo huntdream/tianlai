@@ -1,6 +1,6 @@
 {
   "rewrites": [
     {"source": "/api/", "destination": "https://ncmusic.vercel.app/"},
-    {"source": "/", "destination": "https://tianlaiapp.vercel.app/"},
+    {"source": "/", "destination": "https://tianlaiapp.vercel.app/"}
   ]
 }
