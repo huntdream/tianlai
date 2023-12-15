@@ -2,7 +2,7 @@
   "rewrites": [
     {"source": "/srv", "destination": "https://ncmusic.vercel.app/"},
     {"source": "/srv/:match*", "destination": "https://ncmusic.vercel.app/:match*"},
-    {"source": "/", "destination": "https://tianlai.vercel.app/"}
+    {"source": "/", "destination": "https://tianlai.vercel.app/"},
     {"source": "/:match*", "destination": "https://tianlai.vercel.app/:match*"}
   ]
 }
